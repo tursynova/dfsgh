@@ -16,7 +16,7 @@ public class Main {
         array = new int[num];
 
         System.out.println("Введите " + num + " чисел");
-
+//aselia sabak
         //Заполняем массив, вводя элементы в консоль
         for (counter = 0; counter < num; counter++)
             array[counter] = input.nextInt();
